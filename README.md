@@ -28,10 +28,10 @@ Developed a tool that optimized SQL queries for 80% better performance.
 
 🛠️ Technical Expertise
 
-Programming: Java, Kotlin
+Programming: Java
 Frameworks: Spring Boot, Akka, Reactor
-Messaging: Kafka, RabbitMQ
-Architecture: Microservices, Hexagonal Architecture, CQRS
+Messaging: Kafka
+Architecture: Microservices, Hexagonal Architecture, CQRS, DDD , ACID , BASE 
 Databases: Cosmos DB, PostgreSQL, MySQL
 DevOps: Docker, Kubernetes, CI/CD Pipelines
 
