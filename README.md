@@ -44,5 +44,3 @@ I thrive on designing systems that scale seamlessly, handle failures gracefully,
 Email: mukeshv483@gmail.com
 LinkedIn: https://www.linkedin.com/in/mukesh-vermax/
 Feel free to explore my repositories, contribute, or reach out for collaborations. Let’s build something amazing together!
-
-![image](https://github.com/user-attachments/assets/edf126a7-c1ff-4064-883e-ea14779ce9b0)
