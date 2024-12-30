@@ -17,23 +17,23 @@ Leadership: Successfully led cross-functional teams in designing, coding, and de
 
 📚 Key Projects
 
-1. Scalable Inventory Management
-Built an event-sourced inventory system with Kafka for real-time updates and scalability.
-Adopted Hexagonal Architecture for seamless integration with various platforms.
-2. Resilient Reservation System
-Enhanced fault tolerance using circuit breakers and backpressure mechanisms.
-Used DDD principles to simplify business logic and improve maintainability.
-3. Push-Down Optimization Tool
-Developed a tool that optimized SQL queries for 80% better performance.
+1.	Scalable Inventory Management
+1.	Built an event-sourced inventory system with Kafka for real-time updates and scalability.
+2.	Adopted Hexagonal Architecture for seamless integration with various platforms.
+3.	Resilient Reservation System
+4.	Enhanced fault tolerance using circuit breakers and backpressure mechanisms.
+5.	Used DDD principles to simplify business logic and improve maintainability.
+2.	Push-Down Optimization Tool
+6.	Developed a tool that optimized SQL queries for 80% better performance.
 
 🛠️ Technical Expertise
 
-Programming: Java
-Frameworks: Spring Boot, Akka, Reactor
-Messaging: Kafka
-Architecture: Microservices, Hexagonal Architecture, CQRS, DDD , ACID , BASE 
-Databases: Cosmos DB, PostgreSQL, MySQL
-DevOps: Docker, Kubernetes, CI/CD Pipelines
+•	Programming: Java
+•	Frameworks: Spring Boot, Akka, Reactor
+•	Messaging: Kafka
+•	Architecture: Microservices, Hexagonal Architecture, CQRS, DDD , ACID , BASE 
+•	Databases: Cosmos DB, PostgreSQL, MySQL
+•	DevOps: Docker, Kubernetes, CI/CD Pipelines
 
 🎯 What Drives Me
 
@@ -45,4 +45,4 @@ Email: mukeshv483@gmail.com
 LinkedIn: https://www.linkedin.com/in/mukesh-vermax/
 Feel free to explore my repositories, contribute, or reach out for collaborations. Let’s build something amazing together!
 
-![image](https://github.com/user-attachments/assets/7dc5c10a-5599-434e-b746-401f89d57d74)
+![image](https://github.com/user-attachments/assets/edf126a7-c1ff-4064-883e-ea14779ce9b0)
