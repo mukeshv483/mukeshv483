@@ -1,7 +1,3 @@
-Here’s a refined and polished version of your introduction:
-
----
-
 **Mukesh Verma**  
 **Senior Software Engineer**  
 With 9+ years of experience in backend development, I specialize in designing **scalable**, **resilient**, and **domain-driven systems**. My passion lies in solving complex engineering challenges and delivering impactful solutions that drive business success.
